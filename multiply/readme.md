@@ -1,0 +1,1 @@
+multiply two numbers entered by user

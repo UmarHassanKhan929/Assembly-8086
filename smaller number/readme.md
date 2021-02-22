@@ -1,0 +1,1 @@
+program to check which number is smaller from the given two numbers
